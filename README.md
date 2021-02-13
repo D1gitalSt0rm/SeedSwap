@@ -1,2 +1,1 @@
 # SeedSwap
-SeedSwap Cryptocurrency
